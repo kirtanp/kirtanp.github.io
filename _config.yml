@@ -1,19 +1,19 @@
 title:            Kirtan Padh	
-description:      "Kirtan is a a final year undergraduate in B.S. Mathematics and scientific computing at IIT Kanpur."
+description:      "I am a senior undergraduate in Mathematics and scientific computing at IIT Kanpur."
 #disqus_shortname: ngpy
 reading_time:     true
 words_per_minute: 200
-url:                    # blank for local preview
-#url: http://kirtanp.github.io   # for production
+#url:                     # blank for local preview
+url: http://kirtanp.github.io   # for production
 header-img: images/homepage.jpg
 excerpt_separator: "<!--more-->"
 
 # Owner/author information
 owner:
-  name:           Yi-Xin Liu
+  name:           Kirtan Padh
   avatar:         avatar.jpg
-  bio:            "Dr. Yi-Xin Liu is a lecturer and researcher working in the field of polymer physics at Fudan University. He currently is also working at MRL@UC Santa Barbara as a visiting researcher."
-  email:          lyx@fudan.edu.cn
+  bio:            "I am a senior undergraduate in Mathematics and scientific computing at IIT Kanpur."
+  email:          kirtan.701@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: lyxfudan
   facebook:
